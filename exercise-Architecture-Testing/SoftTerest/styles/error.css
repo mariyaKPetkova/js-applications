@@ -1,0 +1,9 @@
+.error-message {
+    color: #cc0033;
+    font-size: 12px;
+    line-height: 15px;
+    position: relative;
+  }
+  .error{
+    border-color: red!important;
+  }
